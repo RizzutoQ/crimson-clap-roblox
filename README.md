@@ -5,6 +5,12 @@
 > 🔒 Исходный код закрыт. В репозитории только описание проекта.
 > 🔒 Source code is private. This repo contains a showcase only.
 
+### Скриншоты из игры / In-game screenshots
+| | |
+|---|---|
+| ![Lobby](media/01_lobby.jpg) | ![Cases](media/02_shop_cases.jpg) |
+| ![Bats](media/03_shop_bats.jpg) | ![Buffs](media/04_shop_buffs.jpg) |
+
 ---
 
 ## Русский
