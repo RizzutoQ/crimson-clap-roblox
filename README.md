@@ -32,7 +32,7 @@
 - **Глобальные рейтинги.** Табло «Топ побед» и «Топ нокаутов» в лобби на OrderedDataStore.
 
 ### Стек
-Luau · Rojo. Карта генерируется кодом при старте сервера. Весь баланс вынесен в конфиг-модули (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
+Luau · Rojo. Весь баланс вынесен в конфиг-модули (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
 
 ---
 
@@ -55,4 +55,4 @@ Luau · Rojo. Карта генерируется кодом при старте
 - **Global leaderboards.** "Top Wins" and "Top Knockouts" boards in the lobby, backed by OrderedDataStore.
 
 ### Tech
-Luau · Rojo. The map is generated in code at server start. All balancing lives in config modules (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
+Luau · Rojo. All balancing lives in config modules (`Config`, `Skins`, `Cases`, `Buffs`, `Sounds`).
